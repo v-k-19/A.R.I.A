@@ -1,0 +1,20 @@
+[project]
+name = "a-r-i-a"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "elevenlabs>=2.1.0",
+    "ollama>=0.4.9",
+    "pvporcupine>=3.0.5",
+    "pyaudio>=0.2.14",
+    "pydub>=0.25.1",
+    "pyttsx3>=2.98",
+    "pywhatkit>=5.4",
+    "requests>=2.32.3",
+    "scipy>=1.15.3",
+    "sounddevice>=0.5.2",
+    "speechrecognition>=3.14.3",
+    "spotipy>=2.25.1",
+]
